@@ -4,10 +4,21 @@
         <title>YlMXY Blog</title>
         <link>https://yao1220xy.github.io/blog</link>
         <description>YlMXY Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴的家伙]]></title>
+            <link>https://yao1220xy.github.io/blog/happy</link>
+            <guid>https://yao1220xy.github.io/blog/happy</guid>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真不错，我今天在学git。真是通俗易懂！]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错，我今天在学git。真是通俗易懂！</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>记录</category>
+            <category>ylmxy</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://yao1220xy.github.io/blog/welcome</link>

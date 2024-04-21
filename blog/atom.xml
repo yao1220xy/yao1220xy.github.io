@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yao1220xy.github.io/blog</id>
     <title>YlMXY Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-04-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yao1220xy.github.io/blog"/>
     <subtitle>YlMXY Blog</subtitle>
     <icon>https://yao1220xy.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴的家伙]]></title>
+        <id>https://yao1220xy.github.io/blog/happy</id>
+        <link href="https://yao1220xy.github.io/blog/happy"/>
+        <updated>2024-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天天气真不错，我今天在学git。真是通俗易懂！]]></summary>
+        <content type="html"><![CDATA[<p>今天天气真不错，我今天在学git。真是通俗易懂！</p>]]></content>
+        <author>
+            <name>ylmxy</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="随笔" term="随笔"/>
+        <category label="记录" term="记录"/>
+        <category label="ylmxy" term="ylmxy"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://yao1220xy.github.io/blog/welcome</id>
